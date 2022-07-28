@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on IT with everyone.
 
-💬 Ask me about Git,JavaScripts,React.
+💬 Ask me about HTML, CSS, Git,JavaScripts,React.
 
 📫 How to reach me: ozkankomu35@gmail.com
 
