@@ -14,7 +14,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ozkankomu&left_color=gray&right_color=red)
 
-![OZkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozkankomu&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozkankomu&show_icons=true&theme=radical&count_private=true&line_height=29)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkankomu)](https://github.com/ozkankomu/github-readme-stats)
 
