@@ -10,7 +10,9 @@
 
 📫 How to reach me: ozkankomu35@gmail.com
 
+
 ⚡ Fun fact:
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ozkankomu&left_color=gray&right_color=red)
 
