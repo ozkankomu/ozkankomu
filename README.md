@@ -2,9 +2,9 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on React.
+🔭 I’m currently working on React-NextJS.
 
-🌱 I’m currently learning Django. 
+🌱 I’m currently learning NodeJS. 
 
 👯 I’m looking to collaborate on IT with everyone.
 
