@@ -22,7 +22,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ozkankomu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozkankomu&show_icons=true&theme=radical&count_private=true&line_height=29)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozkankomu&show_icons=true&theme=radical&count_private=true&line_height=29&include_all_commits=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkankomu)](https://github.com/ozkankomu/github-readme-stats)
