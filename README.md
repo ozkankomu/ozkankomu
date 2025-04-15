@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on IT with everyone.
 
-💬 Ask me about HTML, CSS, Git, JavaScripts, TypeScript, React.
+💬 Ask me about HTML, CSS, Scss, Git, JavaScripts, TypeScript, Reactjs, Nextjs, React Native.
 
 📫 How to reach me: ozkankomu35@gmail.com
 
