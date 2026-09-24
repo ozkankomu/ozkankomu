@@ -2,9 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on React-NextJS.
-
-🌱 I’m currently learning NodeJS and React Native. 
+🔭 I’m currently working on React-NextJS, NodeJS , NestJS and React Native.
 
 👯 I’m looking to collaborate on IT with everyone.
 
